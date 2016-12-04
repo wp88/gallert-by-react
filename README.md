@@ -1,2 +1,2 @@
-# gallert-by-react
+# gallery-by-react
 A photo gallery project by react.
